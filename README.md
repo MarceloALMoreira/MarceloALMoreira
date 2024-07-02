@@ -36,7 +36,7 @@ Motivated programmer with solid training in Systems Analysis and Development. I 
 
 <h2>🚀 &nbsp;A little more about my profile</h2>
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloALMoreira&show_icons=true&theme=dark)
+![Marcelo Almeida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloALMoreira&show_icons=true&theme=dark)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=footer"/>

@@ -23,7 +23,7 @@ Motivated programmer with solid training in Systems Analysis and Development. I 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+<h3>⚙️ &nbsp;Back-end:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
@@ -34,7 +34,7 @@ Motivated programmer with solid training in Systems Analysis and Development. I 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+<h2>🚀 &nbsp;A little more about my profile</h2>
 
 ![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloALMoreira&show_icons=true&theme=dark)
 
